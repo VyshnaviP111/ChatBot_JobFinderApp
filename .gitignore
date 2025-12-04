@@ -1,0 +1,70 @@
+# ------------------------------
+# Python & Virtual Environment
+# ------------------------------
+venv/
+env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+
+# ------------------------------
+# Environment Variables
+# ------------------------------
+.env
+*.env
+
+
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+
+# ------------------------------
+# OS-specific files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# IDE / Editor files
+# ------------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# # ------------------------------
+# # SQLite Database (Conversation Memory)
+# # ------------------------------
+# chat_history.db
+
+# # ------------------------------
+# # ChromaDB (Long-term Vector Store)
+# # ------------------------------
+# chroma_store/
+# index/
+# *.index
+
+# ------------------------------
+# Model Cache (Sentence Transformers)
+# ------------------------------
+huggingface/
+sentence_transformers/
+.cache/
+.cache/*
+
+# ------------------------------
+# Build / Packaging
+# ------------------------------
+dist/
+build/
+*.egg-info/
+
+# ------------------------------
+# Project data files
+# ------------------------------
+*.pdf
+*.docx
+

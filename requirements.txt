@@ -1,0 +1,12 @@
+langchain
+openai
+langsmith
+python-dotenv
+chromadb
+langchain-community
+dotenv
+langchain_groq
+fastapi
+uvicorn
+langchain_core
+sentence-transformers

@@ -1,0 +1,157 @@
+📌 1. What is Job Finder?
+
+Job Finder is a free, AI-powered job search platform designed to help people find contract, full-time, and remote jobs in the United States quickly and without stress.
+
+It updates job postings every 30 minutes, removes duplicates, and recommends roles based on the user’s skills and preferences.
+
+Job Finder helps users:
+
+Discover real, fresh jobs
+
+Filter jobs by skills, location, and job type
+
+Track applications
+
+Upload resumes (PDF / DOCX)
+
+Get personalized job recommendations
+
+📌 2. Who is Job Finder for?
+
+Job Finder is ideal for:
+
+Job seekers in the United States
+
+People looking for C2C, W2, Contract, Full-time, Part-time, or Remote roles
+
+Freshers and experienced professionals
+
+Users who want a faster, cleaner job search experience
+
+People tired of fake postings or outdated job listings
+
+📌 3. Key Features
+✔ Real-time Job Updates (Every 30 Minutes)
+
+Job Finder automatically pulls fresh job posts every 30 minutes, ensuring the most recent and relevant openings.
+
+✔ Smart Job Filtering
+
+Users can filter by:
+
+Skills
+
+Job title
+
+Location (Remote / Onsite)
+
+Experience level
+
+Visa needs (OPT / H1B-friendly)
+
+Job type (Contract, Full-time, C2C, etc.)
+
+✔ Resume Upload
+
+Supported formats:
+
+PDF
+
+DOCX
+
+Users can upload their resume for better job matching.
+
+✔ Job Tracker Dashboard
+
+Users can track:
+
+Saved jobs
+
+Applied jobs
+
+Interview scheduled
+
+Rejections
+
+Follow-ups
+
+✔ Clean & Simple Experience
+
+No spam. No fake postings. No clutter.
+Only real US-based jobs.
+
+📌 4. How Job Finder Works
+🔹 Step 1 — User Profile Setup
+
+Users enter:
+
+Skills
+
+Technologies
+
+Experience
+
+Preferred job types
+
+Preferred locations
+
+🔹 Step 2 — Resume Upload
+
+User uploads a PDF or DOCX resume.
+
+🔹 Step 3 — Job Recommendations
+
+Job Finder:
+
+Scrapes jobs every 30 minutes
+
+Removes duplicates
+
+Removes scam-like postings
+
+Matches jobs to the user’s profile
+
+Displays clean, fresh recommendations
+
+🔹 Step 4 — Save & Track
+
+Users can save jobs or track application statuses.
+
+📌 5. What Job Finder Does NOT Do (Yet)
+
+These features may come later:
+
+❌ Generating interview questions
+❌ Automatically applying to jobs
+❌ Supporting countries outside the US
+❌ Rewriting resumes
+
+📌 6. Frequently Asked Questions
+Q: Is Job Finder free?
+
+Yes. Job Finder is completely free for all users.
+
+Q: How often are jobs updated?
+
+Every 30 minutes.
+
+Q: Which countries does Job Finder support?
+
+Currently United States only.
+
+Q: Are resumes required to use Job Finder?
+
+No, but resume upload improves job matching.
+
+Q: What file types are supported?
+
+✔ PDF
+✔ DOCX
+
+Q: Does Job Finder help with interview questions?
+
+Not yet, but this will be added later.
+
+📌 7. Summary (1-sentence version)
+
+Job Finder is a free US-based job search tool that updates jobs every 30 minutes, filters out fake posts, and helps users find contract and full-time roles quickly using AI.
