@@ -61,6 +61,8 @@ or llama-3.1-8b-instant
 via Groq API for fast, low-latency answers.
 
 🗂️ Project Structure
+
+
 JobFinder/
 │── chatbot.ipynb        # Main notebook with bot logic
 │── ProductBacklog_v1.txt      # Knowledge base file (loaded into Chroma)
@@ -91,7 +93,7 @@ GROQ_API_KEY=your_key_here
 🧠 How It Works (Simple Explanation)
 1️⃣ Knowledge Base (Chroma → Long-Term Memory)
 
-Your file product_faq.txt is embedded and stored in Chroma:
+Your file product.txt is embedded and stored in Chroma:
 
 emb = HuggingFaceEmbeddings(...)
 vectorstore = Chroma.from_documents(docs, embedding=emb)
