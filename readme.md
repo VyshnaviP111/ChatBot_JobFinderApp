@@ -13,7 +13,7 @@ It supports:
 
 ✅ Persistent storage on disk
 
-🧠 Perfect foundation for your future startup / job search tool
+-> Perfect foundation for your future startup / job search tool
 
 🚀 Features
 📚 1. Long-Term Memory (Knowledge Base)
