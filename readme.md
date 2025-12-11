@@ -167,6 +167,6 @@ Multi-document knowledge base
 
 User authentication and dashboards
 
-❤️ Author
+❤️Author
 
 Project built by Vyshnavi (JobFinder startup).
